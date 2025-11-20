@@ -5,3 +5,18 @@ INFO:     Started server process [681]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     172.20.0.1:42452 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:43298 - "GET /api/chats HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43298 - "GET /api/chats HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43298 - "OPTIONS /api/chats HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43298 - "POST /api/chats HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43298 - "GET /api/chats HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43298 - "POST /api/chats/691f8e0afb98ce4cb82600d1/message HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43304 - "GET /api/chats/691f8e0afb98ce4cb82600d1/messages HTTP/1.1" 200 OK
